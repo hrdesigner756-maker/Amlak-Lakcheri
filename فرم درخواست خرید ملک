@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>HOME LUXUR | ثبت فروش ملک</title>
+
+<style>
+
+body{
+margin:0;
+font-family:tahoma;
+background:#0f0f0f;
+color:white;
+}
+
+.header{
+text-align:center;
+padding:40px 20px;
+background:linear-gradient(135deg,#111,#222);
+border-bottom:2px solid gold;
+}
+
+.logo{
+width:180px;
+border-radius:20px;
+}
+
+.title{
+font-size:34px;
+color:gold;
+margin-top:15px;
+}
+
+.subtitle{
+color:#ddd;
+}
+
+.container{
+max-width:1000px;
+margin:auto;
+padding:20px;
+}
+
+.card{
+background:#1a1a1a;
+padding:25px;
+margin-bottom:20px;
+border-radius:15px;
+border:1px solid rgba(255,215
